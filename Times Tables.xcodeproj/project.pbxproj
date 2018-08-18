@@ -14,6 +14,8 @@
 		25528EE52128106C006092EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25528EE32128106C006092EE /* LaunchScreen.storyboard */; };
 		25528EF02128106C006092EE /* Times_TablesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25528EEF2128106C006092EE /* Times_TablesTests.swift */; };
 		25528EFB2128106C006092EE /* Times_TablesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25528EFA2128106C006092EE /* Times_TablesUITests.swift */; };
+		25528F0921281536006092EE /* TimesTables.png in Resources */ = {isa = PBXBuildFile; fileRef = 25528F0821281535006092EE /* TimesTables.png */; };
+		25528F0B2128155B006092EE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 25528F0A2128155B006092EE /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		25528EF62128106C006092EE /* Times TablesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Times TablesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25528EFA2128106C006092EE /* Times_TablesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Times_TablesUITests.swift; sourceTree = "<group>"; };
 		25528EFC2128106C006092EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25528F0821281535006092EE /* TimesTables.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TimesTables.png; sourceTree = "<group>"; };
+		25528F0A2128155B006092EE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		25528ECE21281069006092EE = {
 			isa = PBXGroup;
 			children = (
+				25528F0A2128155B006092EE /* README.md */,
+				25528F0821281535006092EE /* TimesTables.png */,
 				25528ED92128106A006092EE /* Times Tables */,
 				25528EEE2128106C006092EE /* Times TablesTests */,
 				25528EF92128106C006092EE /* Times TablesUITests */,
@@ -231,7 +237,9 @@
 			files = (
 				25528EE52128106C006092EE /* LaunchScreen.storyboard in Resources */,
 				25528EE22128106C006092EE /* Assets.xcassets in Resources */,
+				25528F0B2128155B006092EE /* README.md in Resources */,
 				25528EE02128106A006092EE /* Main.storyboard in Resources */,
+				25528F0921281536006092EE /* TimesTables.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
